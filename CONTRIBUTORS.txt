@@ -1,0 +1,9 @@
+# Gracias a las siguientes personas por su contribución a este proyecto.
+#
+# Los nombres deben estar por orden alfabético y tener uno de los siguientes formatos:
+#
+#     Nombre <dirección correo electrónico>
+#     Nombre <URL>
+#     Nombre
+
+Miguel González <https://github.com/migonzalvar>
