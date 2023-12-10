@@ -3,7 +3,6 @@ import random
 
 def main():
     word_of_the_day = choose_word()
-    print(word_of_the_day)
     print(f"La palabra tiene {len(word_of_the_day)} letras.")
     for attempt in range(5, 0, -1):
         print(f"Tienes {attempt} intentos.")
