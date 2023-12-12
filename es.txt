@@ -3,6 +3,7 @@ araña
 burro
 burra
 cabra
+calamar
 cebra
 cerdo
 cerda
