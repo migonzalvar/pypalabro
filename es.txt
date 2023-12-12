@@ -16,3 +16,6 @@ pulpo
 ratón
 zorro
 zorra
+aleex
+perro
+perra
