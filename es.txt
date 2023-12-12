@@ -16,3 +16,4 @@ pulpo
 ratón
 zorro
 zorra
+patata
