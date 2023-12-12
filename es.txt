@@ -13,6 +13,7 @@ mosca
 perro
 perra
 pulpo
+ramon
 ratón
 zorro
 zorra
