@@ -22,3 +22,5 @@ ratón
 zorro
 zorra
 patata
+perro
+perra
