@@ -4,6 +4,7 @@ atardecer
 burro
 burra
 cabra
+calamar
 cebra
 coche
 cerdo
