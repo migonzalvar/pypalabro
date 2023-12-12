@@ -4,12 +4,14 @@ burro
 burra
 cabra
 cebra
+coche
 cerdo
 cerda
 cisne
 erizo
 gallo
 mosca
+melon
 perro
 perra
 pulpo
