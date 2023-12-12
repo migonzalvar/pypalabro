@@ -12,7 +12,9 @@ gallo
 mosca
 perro
 perra
+pollo
 pulpo
+rata
 ratón
 zorro
 zorra
